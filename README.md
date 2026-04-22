@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI/ML Projects, Full Stack Development, and Real-world Software Solutions<br>👯 I’m looking to collaborate on Open Source Projects, AI Tools, Web Apps, and Innovative Startups<br><br>🤝 I’m looking for help with System Design, Advanced Development Practices, and Career Growth Opportunities<br><br>🌱 I’m currently learning Java, DSA, Cloud Computing, and Advanced Machine Learning<br><br>💬 Ask me about Python, Machine Learning, GitHub, Projects, Placement Preparation, and Tech Career Guidance<br><br>⚡ Fun fact: I love turning ideas into projects and solving problems with code.
+🔭 I’m currently working on AI/ML Projects, Full Stack Development, and Real-world Software Solutions<br>👯 I’m looking to collaborate on Open Source Projects, AI Tools, Web Apps, and Innovative Startups<br><br>🤝 I’m looking for help with System Design, Advanced Development Practices, and Career Growth Opportunities<br><br>🌱 I’m currently learning Python, DSA, Cloud Computing, and Advanced Machine Learning<br><br>💬 Ask me about Python, Machine Learning, GitHub, Projects, Placement Preparation, and Tech Career Guidance<br><br>⚡ Fun fact: I love turning ideas into projects and solving problems with code.
 
 
 ## 🌐 Socials:
